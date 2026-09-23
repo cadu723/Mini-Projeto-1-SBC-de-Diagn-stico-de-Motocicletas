@@ -1,7 +1,7 @@
 # Mini-Projeto 1 — SBC de Diagnóstico de Motocicletas
 
 Disciplina: Sistemas Baseados em Conhecimento (SBC) — Prof. Daniel Faustino
-Equipe: NOME 1 · NOME 2
+Equipe: David Alves e Caio Eduardo
 
 ## Domínio
 
